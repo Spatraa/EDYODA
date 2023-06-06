@@ -143,7 +143,7 @@ function App() {
         </div>
         <div className='foot'>
         <div className='div1'>Total (incl of 18% GST) </div>
-        <div className='div2'>-&#8377;{discountedPrice}</div>
+        <div className='div2'>&#8377;{discountedPrice}</div>
         </div>
         <div className='last'>
           <button className='x'>Cancel</button>
